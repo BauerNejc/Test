@@ -71,6 +71,10 @@ body {
 
     /*****CONTACT SECTION*****/
 
+    #contact {
+        height: 100%;
+    }
+
     #contact h1 {
         font-size: 30px;
     }
